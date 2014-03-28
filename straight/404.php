@@ -6,7 +6,7 @@
         <div class="page clearfix">
             <div class="instraction-sidebar">
                 <div class="squire">
-                    <span><?php echo "404.Error.Monia "; ?></span>
+                    <span><?php echo "404.Error. "; ?></span>
                 </div>
                 <ul class="catagory">
                     <li>
