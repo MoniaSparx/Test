@@ -1,0 +1,1 @@
+[28-Feb-2014 05:21:51 UTC] PHP Fatal error:  Out of memory (allocated 7864320) (tried to allocate 6400 bytes) in /home/straight/public_html/sm_wp/wp-content/themes/straight/timthumb.php on line 1085

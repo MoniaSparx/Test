@@ -1,0 +1,243 @@
+/*header styling
+ --------------------------------------------------------*/
+#header {
+	padding: 17px 10px 0;
+	margin-bottom: -5px;
+}
+#wrapper #header .page .social-icons {
+	padding-top: 12px;
+}
+.nav-wrap {
+	padding-top: 20px;
+}
+.nav {
+	padding: 0px;
+	display: inline-block;
+}
+.flex-prev, .flex-next {
+	height: 29px;
+	width: 29px;
+	background-position: -1px -226px;
+	bottom: 164px;
+	left: 55px;
+}
+.flex-next {
+	background-position: -46px -227px;
+	right: 55px;
+	left: auto;
+}
+.caption-text .big {
+	font-size: 3.8em;
+}
+.flexslider .caption-text {
+	bottom: 20px;
+	left: 10px;
+}
+.feature-article {
+	padding: 0 10px;
+}
+#wrapper #content .flag {
+	width: 100%;
+}
+#wrapper #content .article {
+	font-size: 1.5em;
+	min-width: 0;
+}
+.flag h1 {
+	font-size: 3.5em;
+	left: 154px;
+	top: 111px;
+}
+.flag h1 span {
+	font-size: 0.51em;
+}
+
+.read-more {
+	font-size: 1.1em;
+	padding: 23px 17px;
+}
+#wrapper #content .slogan-left span {
+	font-size: 2.1em;
+}
+.slogan-right {
+	width: 61%;
+}
+.slogan-right p {
+	font-size: 1.3em;
+}
+.slogan-right .flexslider {
+	padding: 0 60px 0 15px;
+}
+.slogan .flex-direction-nav a {
+	padding: 0px;
+	width: 28px;
+	height: 28px;
+	background-position: -126px 4px;
+	bottom: 15px;
+	right: 40px;
+}
+.slogan .flex-direction-nav a.flex-next {
+	background-position: -159px 4px;
+	right: 6px;
+}
+.flexslider {
+	min-height: 210px;
+	position: relative;
+}
+.gallary-section {
+	padding: 0 10px;
+}
+.gallary {
+	margin-left: 15px;
+	width: 31.9%;
+}
+.gallary:first-child {
+	margin-left: 0;
+}
+.gallary-txt p a {
+	color: #214194;
+	text-decoration: underline;
+}
+.inner {
+	padding: 10px 4% 0 3%;
+}
+.inner h3 {
+	font-size: 2.5em;
+}
+#wrapper #content .more-btn {
+	padding: 10px 2%;
+	margin-right: -2%;
+}
+.twt-feed {
+	padding: 45px 10px 55px 10px;
+}
+.space {
+	padding: 0px;
+}
+.space h2 {
+	margin-bottom: 40px;
+}
+
+.mary {
+	margin-top: 63px;
+}
+.flexslider {
+	min-height: 131px;
+}
+.flexslider li p {
+	font-size: 1.3em;
+}
+.instraction {
+	width: 84%;
+}
+.flexslider .flex-control-paging {
+	left: 41%;
+	z-index: 999;
+}
+.footer-content > ul {
+	padding-top: 5px;
+}
+.footer-content {
+	padding: 35px 0 41px 120px;
+}
+.footer-content > ul {
+	margin-left: 3%;
+}
+#wrapper #content .slogan-left span i {
+	font-family: 'gotham_roundedlight';
+}
+.flexslider .slides > li {
+	min-height: 195px;
+}
+/*law ans policy page content
+ ----------------------------------------*/
+.sub-gallary {
+	padding: 0px;
+}
+.sub-gallary .wrap-gallary {
+	padding: 0 10px;
+	margin-left: -8px;
+}
+.new-gall .gallary:first-child, .new-gall .gallary {
+	margin-left: 10px;
+}
+#wrapper .sub-gallary .gallary-txt p {
+	font-size: 1.2em;
+}
+.gallary-txt h5 a {
+	font-size: 0.86em;
+}
+.txt {
+	padding: 15px 19px;
+}
+#wrapper .acknowledge-txt {
+	margin: 0 auto;
+	width: 74%;
+}
+#wrapper .acknowledge-head {
+	font-size: 1.8em;
+}
+#wrapper .txt p {
+	font-size: 1.3em;
+	margin-bottom: 20px;
+}
+.instractions {
+	padding: 0 10px;
+}
+/*take action page content
+ ----------------------------------------*/
+.catagory li {
+	padding-left: 6%;
+	width: 94%;
+}
+#wrapper .squire span {
+	font-size: 2.8em;
+}
+#wrapper .catagory a {
+	font-size: 1.8em;
+}
+
+.instraction-sidebar {
+	width: 32.8%;
+}
+#wrapper .squire {
+	min-height: 227px;
+}
+.main-content {
+	padding: 20px 15px 34px 20px;
+	width: 60.7%;
+}
+#wrapper .main-content p {
+	font-size: 1.3em;
+	margin-bottom: 25px;
+}
+#wrapper #header .nav li{
+	margin: 0 7px;
+}
+
+.search-btn{
+	height: 34px;
+	margin-top: 6px;
+	background-position: 0px 3px;
+}
+.search-bar input[type="text"]{
+	width: 145px;
+}
+.m-search-sec{
+	display: none;
+}
+.footer-content{
+	padding-left:50px;
+}
+.search-sec{
+	padding-right: 32px;
+	
+}
+.search-bar{
+	right: -32px;
+}
+.search-btn{
+right: -22px;
+    top: -20px;	
+    margin-top: 0;
+}
