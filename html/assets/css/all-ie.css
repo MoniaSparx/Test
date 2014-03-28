@@ -1,0 +1,37 @@
+.main-nav {
+	margin-right: 0;
+}
+.block i {
+    bottom: -20%;
+}
+.footer-menu { 
+    padding-left: 15px;
+    padding-right: 15px; 
+}
+.learn-more {
+	behavior: url(PIE.htc);	
+}
+.block {
+	behavior: url(PIE.htc);
+}
+.available {
+	behavior: url(PIE.htc);
+}
+.sidebar {
+	
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#D0D0D0', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+	behavior: url(PIE.htc);
+	
+}
+.flex-control-paging li a {
+		behavior: url(PIE.htc);		
+}
+.facilities {
+	behavior: url(PIE.htc);
+}
+.contact-form input {
+	behavior: url(PIE.htc);
+}
+.main-nav > li > a.active {
+	behavior: url(PIE.htc);
+}

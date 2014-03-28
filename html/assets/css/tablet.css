@@ -1,0 +1,353 @@
+/***********homepage **************/
+#wrapper {
+	background: url(../images/bg768.jpg) center top no-repeat;
+}
+.logo {
+	padding-left: 2.5%;
+	width: 18.7%;
+}
+.social-icon {
+	margin-right: 5px;
+}
+.main-nav {
+	margin: 0;
+	float: none;
+}
+.main-nav > li > a {
+	padding: 17px 19px 16px;
+}
+
+.block {
+	margin-left: 10px;
+	padding: 20px 27px 20px 25px;
+	width: 22.5%;
+}
+.slide-content {
+
+	top: 50px;
+}
+.block p {
+	font-size: 1em;
+}
+.overview-details {
+	font-size: 0.8em;
+}
+.sub-area h2 {
+	font-size: 1.4em;
+}
+.sub-area ul a {
+	font-size: 1em;
+	line-height: 1;
+}
+.main-nav ul {
+	width: 260px;
+}
+.available h2 {
+	font-size: 1.7em;
+	padding-left: 20px;
+}
+.available-container {
+	padding-top: 7px;
+}
+.available ul a {
+	background: url("../images/sprite-image.png") no-repeat scroll 0 -435px;
+	font-size: 1.3em;
+	line-height: 1.5;
+	padding-left: 16px;
+}
+.social-news {
+	background: url("../images/box-shadow-tab.png") repeat-x scroll left top;
+	padding-top: 0px;
+}
+.social-news h2 {
+	font-size: 1.7em;
+}
+.news h3 {
+	font-size: 1.3em;
+}
+.news .overview-details {
+	font-size: 1em;
+}
+.news p {
+	font-size: 1em;
+	line-height: 1.2;
+}
+#footer h5 {
+	font-size: 1.2em;
+}
+.footer-menu ul a {
+	font-size: 0.8em;
+	line-height: 1.6;
+	background: url("../images/sprite-image.png") no-repeat scroll 0 -495px;
+}
+.footer-menu {
+	min-height: 80px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.lower-footer p {
+	font-size: 1em;
+	width: 75%;
+}
+.company-info {
+	font-size: 0.8em;
+}
+.lower-footer p {
+	padding-left: 10px;
+}
+.lower-footer p span {
+	display: inline-block;
+	padding-top: 6px;
+}
+.lower-footer {
+	padding-top: 15px;
+	padding-bottom: 8px;
+}
+.upper-footer {
+	border-bottom: 1px solid #2A2A2A;
+}
+
+.main-nav-bg {
+	/*background: url("../images/nav-shadow-tab.png") no-repeat scroll left top;*/
+	clear: both;
+	float: none;
+	padding-right: 0;
+	width: 99%;
+}
+.slide-content h1 {
+	font-size: 1.6em;
+	line-height: 1.2;
+}
+
+.slide-content p {
+	font-size: 1em;
+}
+
+.learn-more {
+	font-size: 1em;
+	height: 19px;
+	line-height: 1.9;
+	width: 60px;
+}
+
+.sub-content {
+	background: url("../images/sub-contant-background-tab.png") no-repeat scroll left top;
+	padding-bottom: 15px;
+}
+.upper-footer .main {
+	background: url("../images/footer-shadow-tab.jpg") no-repeat scroll center top;
+}
+
+.main-nav > li:hover {
+	background: url("../images/main-link-hover.png") repeat-x scroll left 2px;
+}
+
+/***********about us news page **********/
+.content-bg {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 60px;
+}
+.side-overview h1 {
+	left: 20px;
+	position: absolute;
+	top: 10px;
+	width: 90%;
+}
+.side-banner {
+	width: 37%;
+	padding-top: 0;
+}
+.breadcrum-list {
+	display: none;
+}
+
+.side-description {
+
+	padding-top: 0;
+}
+.side-overview {
+	width: 59%;
+}
+.main-content h1 {
+	left: 20px;
+	position: absolute;
+	top: 10px;
+	width: 90%;
+}
+
+.content-description {
+	padding-top: 0;
+}
+.aboutus-banner {
+	float: left;
+	margin-left: 0;
+	margin-bottom: 10px;
+}
+.sidebar {
+	width: 36%;
+}
+.content-description h2 {
+	clear: both;
+}
+
+.sidebar .learn-more {
+	width: 90px;
+	height: 28px;
+	font-size: 1.4em;
+}
+
+/******** contact us page *****************/
+.contact-description {
+	width: 53%;
+}
+.contact-description h1 {
+	left: 20px;
+	position: absolute;
+	top: 10px;
+	width: 90%;
+}
+.contact-enquiry {
+	padding-top: 0px;
+}
+.contact-form {
+	margin: 0 auto;
+	width: 386px;
+}
+.contact-form textarea {
+	width: 67.5%;
+}
+.contact-form input.learn-more {
+	margin-left: 120px;
+}
+
+/************location page ************/
+
+.map {
+	width: 53%;
+}
+.conatct-listing {
+	margin-bottom: 0;
+}
+
+/***********location available page ********/
+
+.banner-description h1 {
+	font-size: 1.7em;
+}
+.banner-description h4 {
+	font-size: 1em;
+}
+.banner-description ul {
+	margin-left: 55px;
+	margin-top: 20px;
+}
+.banner-description ul a {
+	font-size: 1em;
+	line-height: 1.5;
+	padding-left: 12px;
+}
+.availability {
+	padding-left: 15px;
+}
+.space {
+	width: 55%;
+}
+.overview {
+	padding-left: 8px;
+	padding-right: 8px;
+	width: 42%;
+}
+.overview .learn-more {
+	font-size: 1.5em;
+	height: 46px;
+	line-height: 3;
+	width: 147px;
+}
+.space-image {
+	width: 22%;
+}
+.space-description {
+	width: 72%;
+}
+.area-location h2 {
+	font-size: 2.2em;
+}
+.sidebar .area-location a {
+	font-size: 1.2em;
+	line-height: 1.4;
+	padding-left: 10px;
+}
+.banner-container {
+	padding-bottom: 0;
+}
+.available-description {
+	margin-bottom: 40px;
+}
+.banner-description {
+	top: 2%;
+}
+.banner i.right-shadow {
+	top: 181px;
+}
+.banner i.left-shadow {
+	top: 181px;
+}
+.location-container {
+	padding-top: 10px;
+}
+@media all and (min-width: 900px) and (max-width: 1024px) {
+
+	#wrapper {
+		background: url("../images/bg.jpg") no-repeat scroll center top;	
+	}
+	.connect-us {
+		margin-bottom: 39px;
+	}
+	.main-nav-bg {
+		background: url("../images/nav-shadow.png") no-repeat scroll left top;
+		float: right;
+		padding-bottom: 13px;
+		padding-right: 13px;
+		width: 75%;
+		clear: none;
+	}
+	.sub-content {
+		background: url("../images/sub-contant-background.png") no-repeat scroll left top;
+		padding-bottom: 40px;
+	}
+	.footer-menu {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.upper-footer .main {
+		background: url("../images/footer-shadow.jpg") no-repeat scroll center top;
+	}
+	.content-bg {
+		padding-right: 40px;
+	}
+	.side-overview {
+		width: 65%;
+	}
+	.side-banner {
+		width: 30%;
+	}
+	.space-image {
+		width: 16.5%;
+	}
+	.space-description {
+		width: 75%;
+	}
+	.banner i.right-shadow {
+		top: 241px;
+	}
+	.banner i.left-shadow {
+		top: 241px;
+	}
+	.banner-description ul {
+		margin-top: 35px;
+	}
+
+}
+
